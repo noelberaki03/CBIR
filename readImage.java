@@ -1,8 +1,4 @@
 /*
- * Assignment 2
- * By Noel Beraki
- * CSS 484
- * 
  * readImage.java
  * Description: Reads from the images directory and performs the intensity and color code method on each
  * image. Calculations are then outputed to text files.

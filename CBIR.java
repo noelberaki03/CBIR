@@ -1,8 +1,4 @@
 /*
- * Assignment 2
- * By Noel Beraki
- * CSS 484
- * 
  * CBIR.java
  * Description: Provides a GUI for querying image retrievals and ordering display by either:
  * - The intensity method
